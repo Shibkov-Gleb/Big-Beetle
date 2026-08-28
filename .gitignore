@@ -1,1 +1,8 @@
-/.vscode
+__pycache__/
+*.py[cod]
+.vscode/
+data/
+raw_text/
+models/*
+!models/.gitkeep
+
